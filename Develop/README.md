@@ -15,7 +15,7 @@ https://github.com/DariaPressley/svglogo
 
 ## Credits
 
-Eric Sayer (UCLA Tutor)
+Eric Sayer (UCLA Tutor) - overall help with JavaScript
 
 ## License
 
